@@ -4,7 +4,7 @@
 ## **1. Executive Summary**  
 
 ### **Objective**  
-To predict the price range of mobile phones based on their specifications and provide actionable business insights to help Bob's company compete effectively with industry leaders like Apple and Samsung.  
+To predict the price range of mobile phones based on their specifications and provide actionable business insights to help the new budding company compete effectively with industry leaders like Apple and Samsung.  
 
 ### **Context**  
 This project uses **Python**, **SQL**, and **machine learning algorithms** to perform in-depth data analysis and predictive modeling. The analysis highlights the relationship between mobile specifications (RAM, battery power, camera quality, etc.) and price range to guide Bob's company in developing a competitive strategy.  
